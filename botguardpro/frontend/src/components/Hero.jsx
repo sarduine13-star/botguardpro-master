@@ -1,0 +1,1 @@
+export default function Hero(){return(<section className='hero'><h2>Real Protection. Real Speed.</h2><p>24/7 automated defense.</p></section>);}

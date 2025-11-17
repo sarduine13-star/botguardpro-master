@@ -1,0 +1,1 @@
+export default function Pricing(){return(<section className='pricing'><h2>Choose Your Plan</h2><div className='plans'><div className='plan-card'><h3>Basic</h3><p>$9/mo</p></div><div className='plan-card premium'><h3>Premium</h3><p>$29/mo</p></div></div></section>);}

@@ -1,0 +1,1 @@
+export default function Header(){return(<header className='header'><h1>BotGuard Pro</h1><p>Stop bots. Speed up your site. Get your time back.</p></header>);}
